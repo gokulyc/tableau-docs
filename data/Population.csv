@@ -1,0 +1,54 @@
+CityName,State,Capital Ind,Metro Ind,Population Current,Birth,Death Rate,Per Person Income
+Agra,Uttar Pradesh,Non Capital,Non Metro,1080000,14800,8.3,7.2
+Ahmedabad,Gujarat,Non Capital,Non Metro,1770000,14200,9.3,9.6
+Allahabad,Uttar Pradesh,Non Capital,Non Metro,910000,13700,9.4,10.2
+Amritsar,Punjab,Non Capital,Non Metro,930000,14000,9.2,10.7
+Aurangabad,Maharashtra,Non Capital,Non Metro,950000,16700,9.4,9.6
+Bangalore,Karnataka,Non Capital,Metro,1820000,14100,7.9,9.5
+Bareilly,Uttar Pradesh,Non Capital,Non Metro,500000,17100,10,11.1
+Bhopal,Madhya Pradesh,Capital,Non Metro,1260000,6000,10,10.3
+Chandigarh,Chandigarh,Capital,Non Metro,570000,14400,16.8,7.4
+Chennai,Tamil Nadu,Capital,Metro,1860000,12100,13.6,9.7
+Coimbatore,Tamil Nadu,Non Capital,Non Metro,860000,18800,11.3,8.2
+Delhi,Delhi,Capital,Metro,2060000,11400,15.2,8.3
+Dhanbad,Jharkhand,Non Capital,Non Metro,940000,10200,6.7,8.9
+Faridabad,Haryana,Non Capital,Non Metro,1060000,15100,8.3,7.1
+Ghaziabad,Uttar Pradesh,Non Capital,Non Metro,1100000,10100,3.6,8.4
+Guwahati,Assam,Non Capital,Non Metro,570000,19000,10.8,9.2
+Gwalior,Madhya Pradesh,Non Capital,Non Metro,800000,20200,11.9,8.9
+Howrah,West Bengal,Non Capital,Non Metro,860000,14900,10.9,10.3
+Hubballi-Dharwad,Karnataka,Non Capital,Non Metro,520000,16000,9.8,9.9
+Hyderabad,Telangana,Capital,Metro,1790000,12000,13.7,9.2
+Indore,Madhya Pradesh,Non Capital,Non Metro,1290000,13300,10.3,8.7
+Jabalpur,Madhya Pradesh,Non Capital,Non Metro,800000,15300,11.6,8.3
+Jaipur,Rajasthan,Capital,Non Metro,1520000,8000,13.8,10
+Jodhpur,Rajasthan,Non Capital,Non Metro,770000,17500,9.8,9.7
+Kalyan-Dombivali,Maharashtra,Non Capital,Non Metro,1020000,14700,9.1,9.2
+Kanpur,Uttar Pradesh,Non Capital,Non Metro,1440000,12300,9.3,8.7
+Kolkata,West Bengal,Capital,Metro,1620000,10200,14.8,9.1
+Kota,Rajasthan,Non Capital,Non Metro,600000,19000,10.8,9.6
+Lucknow,Uttar Pradesh,Capital,Non Metro,1500000,12900,14.7,8.7
+Ludhiana,Punjab,Non Capital,Non Metro,1090000,12900,8,9.1
+Madurai[N 2],Tamil Nadu,Non Capital,Non Metro,710000,16300,10.1,10.7
+Meerut,Uttar Pradesh,Non Capital,Non Metro,1060000,17700,10.1,13
+Moradabad,Uttar Pradesh,Non Capital,Non Metro,400000,15300,9,8.8
+Mumbai,Maharashtra,Capital,Metro,2920000,9500,13.5,10.8
+Mysore,Karnataka,Non Capital,Non Metro,350000,17300,11.3,9.9
+Nagpur,Maharashtra,Non Capital,Non Metro,1340000,16500,11.7,7.6
+Nashik,Maharashtra,Non Capital,Non Metro,1080000,15000,9.8,10.4
+Navi Mumbai,Maharashtra,Non Capital,Non Metro,920000,14000,8.4,9.6
+Patna,Bihar,Capital,Non Metro,1130000,9000,12.5,7.2
+Pimpri-Chinchwad,Maharashtra,Non Capital,Non Metro,1170000,11800,7.4,9.8
+Pune,Maharashtra,Non Capital,Non Metro,1620000,14600,7.3,10.5
+Raipur,Chhattisgarh,Capital,Non Metro,690000,9900,12.4,10.4
+Rajkot,Gujarat,Non Capital,Non Metro,1030000,13100,8.1,8.4
+Ranchi,Jharkhand,Capital,Non Metro,880000,10500,14.4,10.4
+Solapur,Maharashtra,Non Capital,Non Metro,570000,16500,10,10.4
+Srinagar,Jammu and Kashmir,Capital,Non Metro,950000,12300,16.5,10.3
+Surat,Gujarat,Non Capital,Non Metro,1580000,14100,7.4,11.2
+Thane,Maharashtra,Non Capital,Non Metro,1270000,17800,10.6,9.1
+Vadodara,Gujarat,Non Capital,Non Metro,1110000,16200,8.2,8.8
+Varanasi,Uttar Pradesh,Non Capital,Non Metro,970000,12400,8.9,8.9
+Vasai-Virar,Maharashtra,Non Capital,Non Metro,1010000,16800,9.8,9.4
+Vijayawada,Andhra Pradesh,Capital,Non Metro,780000,12400,15.2,9.9
+Visakhapatnam,Andhra Pradesh,Non Capital,Non Metro,1240000,14100,8.3,10.9
