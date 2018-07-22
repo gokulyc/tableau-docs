@@ -1,0 +1,87 @@
+City,State,Gender,Pop
+Agra,Uttar Pradesh,Male,49
+Ahmedabad,Gujarat,Male,15
+Allahabad,Uttar Pradesh,Male,46
+Amritsar,Punjab,Male,29
+Aurangabad,Maharashtra,Male,42
+Bangalore,Karnataka,Male,28
+Bareilly,Uttar Pradesh,Male,33
+Bhopal,Madhya Pradesh,Male,36
+Chandigarh,Chandigarh,Male,13
+Chennai,Tamil Nadu,Male,47
+Coimbatore,Tamil Nadu,Male,35
+Dhanbad,Jharkhand,Male,41
+Faridabad,Haryana,Male,10
+Ghaziabad,Uttar Pradesh,Male,16
+Guwahati,Assam,Male,13
+Gwalior,Madhya Pradesh,Male,44
+Hyderabad,Telangana,Male,12
+Indore,Madhya Pradesh,Male,22
+Jabalpur,Madhya Pradesh,Male,23
+Jaipur,Rajasthan,Male,13
+Jodhpur,Rajasthan,Male,11
+Kanpur,Uttar Pradesh,Male,18
+Kolkata,West Bengal,Male,20
+Kota,Rajasthan,Male,31
+Lucknow,Uttar Pradesh,Male,15
+Ludhiana,Punjab,Male,32
+Meerut,Uttar Pradesh,Male,21
+Moradabad,Uttar Pradesh,Male,41
+Mumbai,Maharashtra,Male,48
+Mysore,Karnataka,Male,31
+Nagpur,Maharashtra,Male,36
+Nashik,Maharashtra,Male,35
+Navi Mumbai,Maharashtra,Male,23
+Patna,Bihar,Male,27
+Pimpri-Chinchwad,Maharashtra,Male,15
+Pune,Maharashtra,Male,11
+Raipur,Chhattisgarh,Male,13
+Rajkot,Gujarat,Male,29
+Ranchi,Jharkhand,Male,40
+Srinagar,Jammu and Kashmir,Male,18
+Surat,Gujarat,Male,21
+Varanasi,Uttar Pradesh,Male,28
+Vijayawada,Andhra Pradesh,Male,50
+Agra,Uttar Pradesh,Female,39
+Ahmedabad,Gujarat,Female,13
+Allahabad,Uttar Pradesh,Female,17
+Amritsar,Punjab,Female,21
+Aurangabad,Maharashtra,Female,16
+Bangalore,Karnataka,Female,47
+Bareilly,Uttar Pradesh,Female,48
+Bhopal,Madhya Pradesh,Female,29
+Chandigarh,Chandigarh,Female,10
+Chennai,Tamil Nadu,Female,33
+Coimbatore,Tamil Nadu,Female,27
+Dhanbad,Jharkhand,Female,12
+Faridabad,Haryana,Female,50
+Ghaziabad,Uttar Pradesh,Female,28
+Guwahati,Assam,Female,11
+Gwalior,Madhya Pradesh,Female,37
+Hyderabad,Telangana,Female,19
+Indore,Madhya Pradesh,Female,33
+Jabalpur,Madhya Pradesh,Female,37
+Jaipur,Rajasthan,Female,45
+Jodhpur,Rajasthan,Female,31
+Kanpur,Uttar Pradesh,Female,33
+Kolkata,West Bengal,Female,28
+Kota,Rajasthan,Female,18
+Lucknow,Uttar Pradesh,Female,38
+Ludhiana,Punjab,Female,27
+Meerut,Uttar Pradesh,Female,27
+Moradabad,Uttar Pradesh,Female,20
+Mumbai,Maharashtra,Female,23
+Mysore,Karnataka,Female,37
+Nagpur,Maharashtra,Female,43
+Nashik,Maharashtra,Female,40
+Navi Mumbai,Maharashtra,Female,11
+Patna,Bihar,Female,49
+Pimpri-Chinchwad,Maharashtra,Female,24
+Pune,Maharashtra,Female,23
+Raipur,Chhattisgarh,Female,19
+Rajkot,Gujarat,Female,39
+Ranchi,Jharkhand,Female,36
+Srinagar,Jammu and Kashmir,Female,33
+Surat,Gujarat,Female,38
+Varanasi,Uttar Pradesh,Female,32
+Vijayawada,Andhra Pradesh,Female,38
